@@ -250,7 +250,7 @@ view: player {
       WHEN ${nationality}="Indonesia" THEN "IDN"
       WHEN ${nationality}="Iran" THEN "IRN"
       WHEN ${nationality}="Iraq" THEN "IRQ"
-      WHEN ${nationality}="Ireland" THEN "IRL"
+      WHEN ${nationality}= "Republic of Ireland" THEN "IRL"
       WHEN ${nationality}="Isle of Man" THEN "IMN"
       WHEN ${nationality}="Israel" THEN "ISR"
       WHEN ${nationality}="Italy" THEN "ITA"
